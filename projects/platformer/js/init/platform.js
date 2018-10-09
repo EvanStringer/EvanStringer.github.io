@@ -47,9 +47,12 @@
         platform.create(79, 0, .02, 16.616);
         platform.create(70, 0, .02, 16.616);
         platform.create(61, 0, .02, 16.616);
-        platform.create(79, 410, .065, 4)
-        
-
+        platform.create(86, 120, .2, .2);
+        platform.create(86, 445, .2, .2);
+        platform.create(300, 375, .35, .2);
+        platform.create(86, 305, .2, .2)
+        platform.create(86, 205, .1, .2)
+        platform.create(86, 0, .2, .2)
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
